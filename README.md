@@ -16,3 +16,7 @@ For the initial retrieval from the 45 million paper index, we recommend followin
 This helps reduce the heavy resource cost during retrieval.
 Once retrieved, you can use the output file as the input to the SciRAG pipeline.
 
+For evaluation, you can check:
+[https://github.com/AkariAsai/ScholarQABench/tree/main](https://github.com/AkariAsai/ScholarQABench/tree/main)
+
+
