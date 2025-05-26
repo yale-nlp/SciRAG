@@ -5,7 +5,7 @@ import os
 import instructions
 from llms import LanguageModel, get_model
 
-os.environ["S2_API_KEY"]='Zlne3WFNvDa6UA1kkgDSE59yhtKf7l2Z1NzJT2kO'
+os.environ["S2_API_KEY"]=''
 S2_API_KEY=os.environ["S2_API_KEY"]
 
 def search_paper_via_query(query, max_paper_num=5):
