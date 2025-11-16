@@ -9,7 +9,7 @@
 ## 📖 Overview
 
 <div align="center">
-  <img src="assets/SciRAG-Framework-Intro.jpg" alt="SciRAG Framework Introduction" width="800"/>
+  <img src="assets/overview.jpg" alt="SciRAG Framework Introduction" width="800"/>
 </div>
 
 Existing baseline approaches for scientific question answering follow a single-threaded iterative retrieval strategy, limiting their ability to comprehensively address multi-faceted questions and leading to incomplete coverage and answer organization. 
@@ -26,7 +26,7 @@ SciRAG achieves strong performance across both long-form literature review tasks
 ## 🏗️ Framework
 
 <div align="center">
-  <img src="assets/SciRAG-complete-framework.jpg" alt="SciRAG Complete Framework" width="900"/>
+  <img src="assets/framework.jpg" alt="SciRAG Complete Framework" width="900"/>
 </div>
 
 ## 🚀 Quickstart
@@ -39,6 +39,10 @@ Create and activate the conda environment:
 conda env create -f environment.yml
 conda activate scirag
 ```
+
+**Remember to configure your API keys:**
+- Set your **Semantic Scholar API key** in `web_search.py`
+- Set your **LLM API key** in `config.yaml`
 
 ### ▶️ Running the Pipeline
 
