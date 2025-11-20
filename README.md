@@ -2,7 +2,7 @@
 
 # SciRAG: Adaptive, Citation-Aware, and Outline-Guided Retrieval and Synthesis for Scientific Literature
 
-[![Paper](https://img.shields.io/badge/Paper-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/xxxx)
+[![Paper](https://img.shields.io/badge/Paper-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2511.14362)
 
 </div>
 
@@ -78,13 +78,13 @@ For evaluation tools and benchmarks, please refer to:
 ## ✍️ Citation
 If you use our work and are inspired by our work, please consider cite us:
 ```
-@misc{zhao2025mmvu,
+@misc{ding2025sciragadaptivecitationawareoutlineguided,
       title={SciRAG: Adaptive, Citation-Aware, and Outline-Guided Retrieval and Synthesis for Scientific Literature}, 
-      author={ },
+      author={Hang Ding and Yilun Zhao and Tiansheng Hu and Manasi Patwardhan and Arman Cohan},
       year={2025},
-      eprint={ },
+      eprint={2511.14362},
       archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/ }, 
+      primaryClass={cs.DL},
+      url={https://arxiv.org/abs/2511.14362}, 
 }
 ```
